@@ -8,6 +8,7 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
+                "-w",
                 "-IC:/msys64/ucrt64/include/gtk-4.0",
                 "-IC:/msys64/ucrt64/include/pango-1.0",
                 "-IC:/msys64/ucrt64/include/fribidi",
